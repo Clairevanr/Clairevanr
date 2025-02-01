@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Claire
-- 👀 Currently trying hard not to fail Computer Science class 👀
+- I am currently studying computer science at Ecole des Mines de Saint-Etienne
 - I code with : Python, Java, C
-- I learn to code with : HTML, CSS, Bash, JavaScript
+- This year, I learnt to code with : HTML, CSS, Bash, JavaScript
 
 
